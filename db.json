@@ -1,0 +1,25 @@
+{
+	"shops": [
+		{
+			"id": 1,
+			"name": "Swopno"
+		},
+		{
+			"id": 2,
+			"name": "Agora"
+		}
+	],
+
+	"items": [
+		{
+			"id": 1,
+			"name": "Fish",
+			"price": 500.00
+		},
+		{
+			"id": 2,
+			"name": "Book",
+			"price": 200.00
+		}	
+	]
+}
